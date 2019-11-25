@@ -1,0 +1,12 @@
+{
+  "name": "phaserTestGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrewogle/phaserTestGame.git",
+  "author": "Andrew <andrewryanogle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-phaser-app": "^0.0.22",
+    "phaser": "^3.21.0"
+  }
+}
